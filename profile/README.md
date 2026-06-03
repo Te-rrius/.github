@@ -34,6 +34,63 @@
 
 ---
 
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>메인 화면 및 로그인</b></td>
+  </tr>
+  <tr>
+    <td><img width="200" alt="메인 화면" src="https://github.com/user-attachments/assets/93f87fbf-5e04-41a3-a7eb-d2c0197ed85c" /></td>
+    <td><img width="200" alt="로그인 모달" src="https://github.com/user-attachments/assets/2fd6f6fb-90bb-40ef-8661-e65b76534fba" /></td>
+    <td><img width="200" alt="동의" src="https://github.com/user-attachments/assets/560c808d-50a3-4fd4-a77d-baad23ac8546" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>리포트 신청</b></td>
+  </tr>
+  <tr>
+    <td><img width="200" alt="리포트 신청 1" src="https://github.com/user-attachments/assets/3bed0366-0202-4b69-b433-999ab4ddd0dc" /></td>
+    <td><img width="200" alt="리포트 신청 2" src="https://github.com/user-attachments/assets/c18ff924-ccf7-49a0-bd3e-5c472ccd4194" /></td>
+    <td><img width="200" alt="리포트 신청 3" src="https://github.com/user-attachments/assets/1ef75f5f-8b29-41ef-b694-607b31a8f650" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>리포트 다운</b></td>
+  </tr>
+  <tr>
+    <td><img width="200" alt="리포트 다운 1" src="https://github.com/user-attachments/assets/7199e0ce-2712-4ab2-a756-a53d0892856c" /></td>
+    <td><img width="200" alt="리포트 다운 2" src="https://github.com/user-attachments/assets/b40fbb58-8520-46d0-b89f-9a8822eec38a" /></td>
+    <td><img width="200" alt="리포트 다운 3" src="https://github.com/user-attachments/assets/46daade4-2e1d-4218-b5ac-15c728d082a2" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="5" align="center"><b>리포트</b></td>
+  </tr>
+  <tr>
+    <td><img width="200" alt="내 리포트" src="https://github.com/user-attachments/assets/a2e715ae-aee3-4676-bc8c-05bd68bd59cc" /></td>
+    <td><img width="200" alt="플레이어 선택" src="https://github.com/user-attachments/assets/b25834a4-e8e2-4781-8a87-dcc0e34d7edc" /></td>
+    <td><img width="200" alt="리포트 1" src="https://github.com/user-attachments/assets/758207cf-4e93-4c18-9ee3-b4c8b7936c7b" /></td>
+    <td><img width="200" alt="리포트 2" src="https://github.com/user-attachments/assets/60d9ee62-47c3-4af5-bf11-5ec2b4fc6a0a" /></td>
+    <td><img width="200" alt="리포트 3" src="https://github.com/user-attachments/assets/ee3de867-c253-41f4-9f7f-d3900fbfbc53" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>설정</b></td>
+  </tr>
+  <tr>
+    <td><img width="200" alt="설정 1" src="https://github.com/user-attachments/assets/1ab0826c-7232-4deb-a9b8-87aef276c30c" /></td>
+    <td><img width="200" alt="설정 2" src="https://github.com/user-attachments/assets/a9bcdc61-0a01-4cbe-af57-7a771c263a34" /></td>
+    <td><img width="200" alt="설정 3" src="https://github.com/user-attachments/assets/78cbb1a6-7964-4908-93dc-f8794f54fcc0" /></td>
+  </tr>
+</table>
+
 ## 🏗️ 시스템 아키텍처
 
 ```
