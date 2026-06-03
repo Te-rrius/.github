@@ -13,9 +13,9 @@
 
 | 레포                                                | 설명              | 기술 스택                           |
 | --------------------------------------------------- | ----------------- | ----------------------------------- |
-| [Terrius-FE](https://github.com/terrius/Terrius-FE) | 모바일 앱         | Expo · React Native · TypeScript    |
-| [Terrius-BE](https://github.com/terrius/Terrius-BE) | 백엔드 API 서버   | Spring Boot · Java 21               |
-| [Terrius-AI](https://github.com/terrius/Terrius-AI) | AI 영상 분석 서버 | FastAPI · Python · YOLO · MediaPipe |
+| [Terrius-FE](https://github.com/Te-rrius/FE) | 모바일 프론트엔드         | Expo · React Native · TypeScript    |
+| [Terrius-BE](https://github.com/Te-rrius/BE) | 백엔드 서버   | Spring Boot · Java 21               |
+| Terrius-AI | AI | FastAPI · Python · YOLO · MediaPipe |
 
 ---
 
@@ -37,21 +37,18 @@
 ## 🏗️ 시스템 아키텍처
 
 ```
-📱 Expo App (iOS / Android)
+📱 Mobile Expo App (iOS / Android)
     │  카카오 로그인 · JWT
     │  경기 영상 재생 · 리포트 시각화
     ▼
 🎾 Terrius Backend (Spring Boot)
     │  인증 · 도메인 데이터 · 앱 API
-    │
-    ├─▶ 🗄️ MySQL         (도메인 데이터)
+    ├─▶ 🗄️ MySQL          (도메인 데이터)
     ├─▶ 🪣 AWS S3         (영상 · 리포트)
-    │
     └─▶ 🤖 Terrius AI (FastAPI)
             │  영상 분석 파이프라인
-            │
-            ├─▶ 🟡 TrackNetV3       (공 추적)
-            ├─▶ 🧍 Ultralytics YOLO (선수 추적)
+            ├─▶ 🟡 TrackNetV3        (공 추적)
+            ├─▶ 🧍 Ultralytics YOLO  (선수 추적)
             ├─▶ 👤 MediaPipe         (자세 분석)
             └─▶ 🎬 하이라이트 클립 생성 · S3 업로드
 ```
@@ -65,7 +62,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Expo%20Router-000020?style=flat-square&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/Kakao%20Login-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
 
-### 🎾 Backend
+### 🌐 Backend
 
 <img src="https://img.shields.io/badge/Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot%204.0.3-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 
@@ -105,10 +102,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center">Frontend</td>
+    <td align="center">FRONTEND</td>
     <td align="center">AI</td>
-    <td align="center">Backend · AI</td>
-    <td align="center">Backend</td>
+    <td align="center">BACKEND · AI</td>
+    <td align="center">BACKEND</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/a-neey">@a-neey</a></td>
